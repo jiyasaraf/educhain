@@ -24,4 +24,6 @@ To create a decentralized platform where art, technology, and philanthropy conve
 - **Ownership Verification:** Ability to verify the owner of any minted NFT.
 
 ## Contract Address : 0x79AbD970C4CA9762625ACcA7DE4389f5815A97cE
+![image](https://github.com/user-attachments/assets/a8d1b2ed-ef14-4c0d-8488-4d6d244c8487)
+
 
